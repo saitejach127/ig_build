@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7a0344f.chunk.css",
-    "main.js": "/static/js/main.16d4a7b1.chunk.js",
-    "main.js.map": "/static/js/main.16d4a7b1.chunk.js.map",
+    "main.css": "/static/css/main.c9f02926.chunk.css",
+    "main.js": "/static/js/main.866d22cc.chunk.js",
+    "main.js.map": "/static/js/main.866d22cc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e0920cb.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e0920cb.js.map",
     "static/css/2.2d63d0b4.chunk.css": "/static/css/2.2d63d0b4.chunk.css",
-    "static/js/2.4edd2b8a.chunk.js": "/static/js/2.4edd2b8a.chunk.js",
-    "static/js/2.4edd2b8a.chunk.js.map": "/static/js/2.4edd2b8a.chunk.js.map",
+    "static/js/2.565ff07d.chunk.js": "/static/js/2.565ff07d.chunk.js",
+    "static/js/2.565ff07d.chunk.js.map": "/static/js/2.565ff07d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c07e886833e61971e9180ff7e19862c.js": "/precache-manifest.8c07e886833e61971e9180ff7e19862c.js",
+    "precache-manifest.867c6a932fc18183a23eb00c0bd5633f.js": "/precache-manifest.867c6a932fc18183a23eb00c0bd5633f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2d63d0b4.chunk.css.map": "/static/css/2.2d63d0b4.chunk.css.map",
-    "static/css/main.d7a0344f.chunk.css.map": "/static/css/main.d7a0344f.chunk.css.map",
-    "static/js/2.4edd2b8a.chunk.js.LICENSE.txt": "/static/js/2.4edd2b8a.chunk.js.LICENSE.txt",
+    "static/css/main.c9f02926.chunk.css.map": "/static/css/main.c9f02926.chunk.css.map",
+    "static/js/2.565ff07d.chunk.js.LICENSE.txt": "/static/js/2.565ff07d.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/static/media/C4II.216ba44d.png",
+    "static/media/Director-audio.mp3": "/static/media/Director-audio.47f8d6ed.mp3",
     "static/media/Gitworkshop.jpeg": "/static/media/Gitworkshop.61a8695d.jpeg",
     "static/media/IG-logo-WITHOUT-BG.png": "/static/media/IG-logo-WITHOUT-BG.97650f70.png",
     "static/media/Ig+logo+rectangular.png": "/static/media/Ig+logo+rectangular.622c2c91.png",
@@ -24,13 +25,14 @@
     "static/media/first+image.png": "/static/media/first+image.fd1a3a9c.png",
     "static/media/igpic.png": "/static/media/igpic.6d4b8344.png",
     "static/media/nitwlogo.png": "/static/media/nitwlogo.db356830.png",
+    "static/media/oic-image-1.png": "/static/media/oic-image-1.0ddd3625.png",
     "static/media/project+image.png": "/static/media/project+image.dd2c83db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e0920cb.js",
     "static/css/2.2d63d0b4.chunk.css",
-    "static/js/2.4edd2b8a.chunk.js",
-    "static/css/main.d7a0344f.chunk.css",
-    "static/js/main.16d4a7b1.chunk.js"
+    "static/js/2.565ff07d.chunk.js",
+    "static/css/main.c9f02926.chunk.css",
+    "static/js/main.866d22cc.chunk.js"
   ]
 }

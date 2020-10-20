@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cii/static/css/main.c019e728.chunk.css",
-    "main.js": "/cii/static/js/main.423c23c4.chunk.js",
-    "main.js.map": "/cii/static/js/main.423c23c4.chunk.js.map",
+    "main.js": "/cii/static/js/main.9ab90e82.chunk.js",
+    "main.js.map": "/cii/static/js/main.9ab90e82.chunk.js.map",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
     "runtime-main.js.map": "/cii/static/js/runtime-main.2a9774b1.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/cii/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.014ca132.chunk.js": "/cii/static/js/2.014ca132.chunk.js",
-    "static/js/2.014ca132.chunk.js.map": "/cii/static/js/2.014ca132.chunk.js.map",
+    "static/js/2.ca833df7.chunk.js": "/cii/static/js/2.ca833df7.chunk.js",
+    "static/js/2.ca833df7.chunk.js.map": "/cii/static/js/2.ca833df7.chunk.js.map",
     "index.html": "/cii/index.html",
-    "precache-manifest.49e2fa3d2e6674d83a147bc11a0469ff.js": "/cii/precache-manifest.49e2fa3d2e6674d83a147bc11a0469ff.js",
+    "precache-manifest.ef85ffb70f54a12b438b66c1335269ba.js": "/cii/precache-manifest.ef85ffb70f54a12b438b66c1335269ba.js",
     "service-worker.js": "/cii/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/cii/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.c019e728.chunk.css.map": "/cii/static/css/main.c019e728.chunk.css.map",
-    "static/js/2.014ca132.chunk.js.LICENSE.txt": "/cii/static/js/2.014ca132.chunk.js.LICENSE.txt",
+    "static/js/2.ca833df7.chunk.js.LICENSE.txt": "/cii/static/js/2.ca833df7.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/Director-audio.mp3": "/cii/static/media/Director-audio.47f8d6ed.mp3",
     "static/media/Gitworkshop.jpeg": "/cii/static/media/Gitworkshop.61a8695d.jpeg",
@@ -26,13 +26,14 @@
     "static/media/igpic.png": "/cii/static/media/igpic.6d4b8344.png",
     "static/media/nitwlogo.png": "/cii/static/media/nitwlogo.db356830.png",
     "static/media/oic-image-1.png": "/cii/static/media/oic-image-1.0ddd3625.png",
+    "static/media/person.png": "/cii/static/media/person.cb4ade3f.png",
     "static/media/project+image.png": "/cii/static/media/project+image.dd2c83db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.014ca132.chunk.js",
+    "static/js/2.ca833df7.chunk.js",
     "static/css/main.c019e728.chunk.css",
-    "static/js/main.423c23c4.chunk.js"
+    "static/js/main.9ab90e82.chunk.js"
   ]
 }

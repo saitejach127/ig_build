@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cii/static/css/main.fdf97bad.chunk.css",
-    "main.js": "/cii/static/js/main.ec48769e.chunk.js",
-    "main.js.map": "/cii/static/js/main.ec48769e.chunk.js.map",
+    "main.css": "/cii/static/css/main.7245844c.chunk.css",
+    "main.js": "/cii/static/js/main.a1572854.chunk.js",
+    "main.js.map": "/cii/static/js/main.a1572854.chunk.js.map",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
     "runtime-main.js.map": "/cii/static/js/runtime-main.2a9774b1.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/cii/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4f3b2c1c.chunk.js": "/cii/static/js/2.4f3b2c1c.chunk.js",
-    "static/js/2.4f3b2c1c.chunk.js.map": "/cii/static/js/2.4f3b2c1c.chunk.js.map",
+    "static/js/2.06f5eadb.chunk.js": "/cii/static/js/2.06f5eadb.chunk.js",
+    "static/js/2.06f5eadb.chunk.js.map": "/cii/static/js/2.06f5eadb.chunk.js.map",
     "index.html": "/cii/index.html",
-    "precache-manifest.de04c27f7eef246ea47883cd38f8c208.js": "/cii/precache-manifest.de04c27f7eef246ea47883cd38f8c208.js",
+    "precache-manifest.d121be33fc33cb5f7c7ff02118ed80e6.js": "/cii/precache-manifest.d121be33fc33cb5f7c7ff02118ed80e6.js",
     "service-worker.js": "/cii/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/cii/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.fdf97bad.chunk.css.map": "/cii/static/css/main.fdf97bad.chunk.css.map",
-    "static/js/2.4f3b2c1c.chunk.js.LICENSE.txt": "/cii/static/js/2.4f3b2c1c.chunk.js.LICENSE.txt",
+    "static/css/main.7245844c.chunk.css.map": "/cii/static/css/main.7245844c.chunk.css.map",
+    "static/js/2.06f5eadb.chunk.js.LICENSE.txt": "/cii/static/js/2.06f5eadb.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/Director-audio.mp3": "/cii/static/media/Director-audio.47f8d6ed.mp3",
     "static/media/Gitworkshop.jpeg": "/cii/static/media/Gitworkshop.61a8695d.jpeg",
@@ -24,7 +24,7 @@
     "static/media/Merge.png": "/cii/static/media/Merge.d838822e.png",
     "static/media/OICposter.jpeg": "/cii/static/media/OICposter.34621355.jpeg",
     "static/media/TIC.png": "/cii/static/media/TIC.4f51d96c.png",
-    "static/media/abhinav.jpg": "/cii/static/media/abhinav.7141107e.jpg",
+    "static/media/abhinav.jpg": "/cii/static/media/abhinav.10630d3b.jpg",
     "static/media/abitharao.jpg": "/cii/static/media/abitharao.5004c264.jpg",
     "static/media/aditya.jpg": "/cii/static/media/aditya.e1af9871.jpg",
     "static/media/ajeet.jpg": "/cii/static/media/ajeet.d8045c40.jpg",
@@ -71,8 +71,8 @@
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4f3b2c1c.chunk.js",
-    "static/css/main.fdf97bad.chunk.css",
-    "static/js/main.ec48769e.chunk.js"
+    "static/js/2.06f5eadb.chunk.js",
+    "static/css/main.7245844c.chunk.css",
+    "static/js/main.a1572854.chunk.js"
   ]
 }

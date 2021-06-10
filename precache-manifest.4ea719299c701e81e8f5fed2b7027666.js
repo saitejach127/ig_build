@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dab62b180e2b3e70a250917b06d17c3",
+    "revision": "1f8dd3eacf41237a078b1bade52ab48b",
     "url": "/cii/index.html"
   },
   {
-    "revision": "a125946c1634370a8398",
+    "revision": "0d9a9c38c5542eb7321c",
     "url": "/cii/static/css/main.ef8b4954.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cii/static/js/2.7abd93d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a125946c1634370a8398",
-    "url": "/cii/static/js/main.9893628d.chunk.js"
+    "revision": "0d9a9c38c5542eb7321c",
+    "url": "/cii/static/js/main.36e18c73.chunk.js"
   },
   {
     "revision": "0a5d71f272acbbbe52b9",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fbc66b4ad5b69f70d924a67abf42860",
     "url": "/cii/static/media/TIC.3fbc66b4.png"
+  },
+  {
+    "revision": "ef54350155a9ce243698a2ac80007028",
+    "url": "/cii/static/media/Toycathon.ef543501.png"
   },
   {
     "revision": "10630d3b5be7603e26fb68ec7c49347a",
@@ -258,10 +262,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8a8f4fbac5d978e60a78ff1eaec0da7",
     "url": "/cii/static/media/texasInstruments.e8a8f4fb.png"
-  },
-  {
-    "revision": "abc7c7e2362569c56071e39fc374d112",
-    "url": "/cii/static/media/toycathon21.abc7c7e2.jpeg"
   },
   {
     "revision": "e1ccff102d47234f595a73a79e82be15",

@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/cii/static/css/main.ef8b4954.chunk.css",
-    "main.js": "/cii/static/js/main.b2b22bc7.chunk.js",
+    "main.js": "/cii/static/js/main.cc1e2cb0.chunk.js",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
     "static/js/2.a87e03fc.chunk.js": "/cii/static/js/2.a87e03fc.chunk.js",
     "index.html": "/cii/index.html",
-    "precache-manifest.429297891b0b4d7513866b092f27c96a.js": "/cii/precache-manifest.429297891b0b4d7513866b092f27c96a.js",
+    "precache-manifest.9f6609af5302128aa29447091fced18a.js": "/cii/precache-manifest.9f6609af5302128aa29447091fced18a.js",
     "service-worker.js": "/cii/service-worker.js",
     "static/js/2.a87e03fc.chunk.js.LICENSE.txt": "/cii/static/js/2.a87e03fc.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
@@ -84,7 +84,7 @@
     "static/media/sushyant.jpeg": "/cii/static/media/sushyant.53258e3c.jpeg",
     "static/media/tanzeela.jpeg": "/cii/static/media/tanzeela.4ba28576.jpeg",
     "static/media/texasInstruments.png": "/cii/static/media/texasInstruments.e8a8f4fb.png",
-    "static/media/thanish.jpg": "/cii/static/media/thanish.3668cf51.jpg",
+    "static/media/thanish.jpg": "/cii/static/media/thanish.3c95d67e.jpg",
     "static/media/vakula.jpg": "/cii/static/media/vakula.e1ccff10.jpg",
     "static/media/venkaiah.jpg": "/cii/static/media/venkaiah.a6251bcc.jpg",
     "static/media/venkatesh.png": "/cii/static/media/venkatesh.52a4f3e9.png",
@@ -94,6 +94,6 @@
     "static/js/runtime-main.2a9774b1.js",
     "static/js/2.a87e03fc.chunk.js",
     "static/css/main.ef8b4954.chunk.css",
-    "static/js/main.b2b22bc7.chunk.js"
+    "static/js/main.cc1e2cb0.chunk.js"
   ]
 }

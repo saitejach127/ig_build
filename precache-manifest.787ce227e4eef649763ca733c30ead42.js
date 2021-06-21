@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f42b8bc816c4d19d76fe296b9364868",
+    "revision": "e5fe2f516a24cd1a67d74a807175c429",
     "url": "/cii/index.html"
   },
   {
-    "revision": "d2467dba3956bcc5ae2b",
+    "revision": "8bc3a01b588d35df481d",
     "url": "/cii/static/css/main.ef8b4954.chunk.css"
   },
   {
-    "revision": "c1a89f42164e1a3aa41f",
-    "url": "/cii/static/js/2.a87e03fc.chunk.js"
+    "revision": "fdc97eb870456618c5e4",
+    "url": "/cii/static/js/2.3de08fa3.chunk.js"
   },
   {
     "revision": "abfa9001b4087bb9e9a892e4db297d32",
-    "url": "/cii/static/js/2.a87e03fc.chunk.js.LICENSE.txt"
+    "url": "/cii/static/js/2.3de08fa3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2467dba3956bcc5ae2b",
-    "url": "/cii/static/js/main.cbd30ef0.chunk.js"
+    "revision": "8bc3a01b588d35df481d",
+    "url": "/cii/static/js/main.75d14947.chunk.js"
   },
   {
     "revision": "0a5d71f272acbbbe52b9",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5004c264654bcd356e72d8ddeb3bded4",
     "url": "/cii/static/media/abitharao.5004c264.jpg"
+  },
+  {
+    "revision": "90d8b95c63999f9d0cf19c0cb2e162ef",
+    "url": "/cii/static/media/aditya_joshi.90d8b95c.jpeg"
   },
   {
     "revision": "b878e8609487fe9ffac02997e86a9200",
@@ -168,8 +172,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cii/static/media/harsh.4ef9e46d.png"
   },
   {
-    "revision": "c933073c0d05c7a5bebdaf97c9f1f9f1",
-    "url": "/cii/static/media/ishitha.c933073c.jpg"
+    "revision": "3d0338ce8572f2b4fbd8998ecc38ce86",
+    "url": "/cii/static/media/ishitha.3d0338ce.jpg"
   },
   {
     "revision": "6a915c0bb4986bfc12dcca0bffb82765",
@@ -178,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "90f89b7b2323958c696c38933e0ebb63",
     "url": "/cii/static/media/karthik.90f89b7b.jpg"
+  },
+  {
+    "revision": "6353048b52958aac65e813dec95f7da5",
+    "url": "/cii/static/media/keerthi.6353048b.jpeg"
   },
   {
     "revision": "27dd8ecb573d011d77797c79fcc1ed58",

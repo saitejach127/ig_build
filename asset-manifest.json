@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cii/static/css/main.dd23f04f.chunk.css",
-    "main.js": "/cii/static/js/main.2dbd7c4c.chunk.js",
+    "main.js": "/cii/static/js/main.c7ea532f.chunk.js",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ebbd1e15.chunk.js": "/cii/static/js/2.ebbd1e15.chunk.js",
+    "static/js/2.456015ea.chunk.js": "/cii/static/js/2.456015ea.chunk.js",
     "index.html": "/cii/index.html",
-    "precache-manifest.7e172602d2c5e64f6a7d6c2de7230502.js": "/cii/precache-manifest.7e172602d2c5e64f6a7d6c2de7230502.js",
+    "precache-manifest.69f2f88ad074347638952094c2553670.js": "/cii/precache-manifest.69f2f88ad074347638952094c2553670.js",
     "service-worker.js": "/cii/service-worker.js",
-    "static/js/2.ebbd1e15.chunk.js.LICENSE.txt": "/cii/static/js/2.ebbd1e15.chunk.js.LICENSE.txt",
+    "static/js/2.456015ea.chunk.js.LICENSE.txt": "/cii/static/js/2.456015ea.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/CIIBlack.png": "/cii/static/media/CIIBlack.e24d8dc0.png",
     "static/media/styles.css": "/cii/static/media/Cross.5d8e37e2.png",
@@ -35,6 +35,7 @@
     "static/media/bhagya.jpg": "/cii/static/media/bhagya.95f2ea23.jpg",
     "static/media/blog+image.png": "/cii/static/media/blog+image.6f116c27.png",
     "static/media/chahat.jpg": "/cii/static/media/chahat.72804797.jpg",
+    "static/media/divya.jpg": "/cii/static/media/divya.63666c37.jpg",
     "static/media/events+image.png": "/cii/static/media/events+image.92dc468e.png",
     "static/media/facebook.png": "/cii/static/media/facebook.a5fe7fc5.png",
     "static/media/fateen.jpeg": "/cii/static/media/fateen.28fb5064.jpeg",
@@ -97,8 +98,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ebbd1e15.chunk.js",
+    "static/js/2.456015ea.chunk.js",
     "static/css/main.dd23f04f.chunk.css",
-    "static/js/main.2dbd7c4c.chunk.js"
+    "static/js/main.c7ea532f.chunk.js"
   ]
 }

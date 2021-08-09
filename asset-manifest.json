@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cii/static/css/main.dd23f04f.chunk.css",
-    "main.js": "/cii/static/js/main.02f10f3d.chunk.js",
+    "main.js": "/cii/static/js/main.eede03fa.chunk.js",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ef372d1b.chunk.js": "/cii/static/js/2.ef372d1b.chunk.js",
+    "static/js/2.d5003843.chunk.js": "/cii/static/js/2.d5003843.chunk.js",
     "index.html": "/cii/index.html",
-    "precache-manifest.0bcc8023e0257aa2cb3f0b1d193b56b0.js": "/cii/precache-manifest.0bcc8023e0257aa2cb3f0b1d193b56b0.js",
+    "precache-manifest.0a61850ab486da2fd9e2d9cfe9bce346.js": "/cii/precache-manifest.0a61850ab486da2fd9e2d9cfe9bce346.js",
     "service-worker.js": "/cii/service-worker.js",
-    "static/js/2.ef372d1b.chunk.js.LICENSE.txt": "/cii/static/js/2.ef372d1b.chunk.js.LICENSE.txt",
+    "static/js/2.d5003843.chunk.js.LICENSE.txt": "/cii/static/js/2.d5003843.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/CIIBlack.png": "/cii/static/media/CIIBlack.e24d8dc0.png",
     "static/media/styles.css": "/cii/static/media/Cross.5d8e37e2.png",
@@ -55,6 +55,7 @@
     "static/media/lakshya.jpeg": "/cii/static/media/lakshya.5eb721f5.jpeg",
     "static/media/mail_icon.svg": "/cii/static/media/mail_icon.ceb59849.svg",
     "static/media/malvika.jpg": "/cii/static/media/malvika.bbcee9d2.jpg",
+    "static/media/manav.jpg": "/cii/static/media/manav.922c5bdd.jpg",
     "static/media/meghna.jpeg": "/cii/static/media/meghna.7916c842.jpeg",
     "static/media/microsoft.png": "/cii/static/media/microsoft.3b6bf894.png",
     "static/media/mridul.jpg": "/cii/static/media/mridul.7ad14acb.jpg",
@@ -99,8 +100,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ef372d1b.chunk.js",
+    "static/js/2.d5003843.chunk.js",
     "static/css/main.dd23f04f.chunk.css",
-    "static/js/main.02f10f3d.chunk.js"
+    "static/js/main.eede03fa.chunk.js"
   ]
 }

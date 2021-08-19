@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cii/static/css/main.dd23f04f.chunk.css",
-    "main.js": "/cii/static/js/main.eede03fa.chunk.js",
+    "main.css": "/cii/static/css/main.b6841f2e.chunk.css",
+    "main.js": "/cii/static/js/main.36d59596.chunk.js",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
-    "static/js/2.d5003843.chunk.js": "/cii/static/js/2.d5003843.chunk.js",
+    "static/js/2.a60d0769.chunk.js": "/cii/static/js/2.a60d0769.chunk.js",
     "index.html": "/cii/index.html",
-    "precache-manifest.0a61850ab486da2fd9e2d9cfe9bce346.js": "/cii/precache-manifest.0a61850ab486da2fd9e2d9cfe9bce346.js",
+    "precache-manifest.1a38cdd8c30606b24e98d5526b6151cd.js": "/cii/precache-manifest.1a38cdd8c30606b24e98d5526b6151cd.js",
     "service-worker.js": "/cii/service-worker.js",
-    "static/js/2.d5003843.chunk.js.LICENSE.txt": "/cii/static/js/2.d5003843.chunk.js.LICENSE.txt",
+    "static/js/2.a60d0769.chunk.js.LICENSE.txt": "/cii/static/js/2.a60d0769.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/CIIBlack.png": "/cii/static/media/CIIBlack.e24d8dc0.png",
     "static/media/styles.css": "/cii/static/media/Cross.5d8e37e2.png",
@@ -46,6 +46,7 @@
     "static/media/girlscript.png": "/cii/static/media/girlscript.f70b2343.png",
     "static/media/google.png": "/cii/static/media/google.b7ee2ddb.png",
     "static/media/harsh.png": "/cii/static/media/harsh.4ef9e46d.png",
+    "static/media/ig-logo.jpeg": "/cii/static/media/ig-logo.97fc61d7.jpeg",
     "static/media/ishitha.jpg": "/cii/static/media/ishitha.3d0338ce.jpg",
     "static/media/jaahnavi.jpeg": "/cii/static/media/jaahnavi.6a915c0b.jpeg",
     "static/media/karthik.jpg": "/cii/static/media/karthik.90f89b7b.jpg",
@@ -73,6 +74,7 @@
     "static/media/project+image.png": "/cii/static/media/project+image.dd2c83db.png",
     "static/media/ranjanraout.jpg": "/cii/static/media/ranjanraout.199875d5.jpg",
     "static/media/rithik.jpg": "/cii/static/media/rithik.dd15c884.jpg",
+    "static/media/sahana.jpg": "/cii/static/media/sahana.5ee2b812.jpg",
     "static/media/santhosh.png": "/cii/static/media/santhosh.c9d78d2a.png",
     "static/media/satish.jpg": "/cii/static/media/satish.c727106a.jpg",
     "static/media/satvik.jpeg": "/cii/static/media/satvik.9243f44b.jpeg",
@@ -100,8 +102,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
-    "static/js/2.d5003843.chunk.js",
-    "static/css/main.dd23f04f.chunk.css",
-    "static/js/main.eede03fa.chunk.js"
+    "static/js/2.a60d0769.chunk.js",
+    "static/css/main.b6841f2e.chunk.css",
+    "static/js/main.36d59596.chunk.js"
   ]
 }

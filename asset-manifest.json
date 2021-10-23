@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cii/static/css/main.b6841f2e.chunk.css",
-    "main.js": "/cii/static/js/main.906dac45.chunk.js",
+    "main.css": "/cii/static/css/main.f56e6348.chunk.css",
+    "main.js": "/cii/static/js/main.2d1fc191.chunk.js",
     "runtime-main.js": "/cii/static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ec2fc386.chunk.js": "/cii/static/js/2.ec2fc386.chunk.js",
+    "static/js/2.760e9da0.chunk.js": "/cii/static/js/2.760e9da0.chunk.js",
     "index.html": "/cii/index.html",
-    "precache-manifest.7963063d42821b9077dd559c36b87a68.js": "/cii/precache-manifest.7963063d42821b9077dd559c36b87a68.js",
+    "precache-manifest.29fdecb92f257d0f0c144046e1602b1e.js": "/cii/precache-manifest.29fdecb92f257d0f0c144046e1602b1e.js",
     "service-worker.js": "/cii/service-worker.js",
-    "static/js/2.ec2fc386.chunk.js.LICENSE.txt": "/cii/static/js/2.ec2fc386.chunk.js.LICENSE.txt",
+    "static/js/2.760e9da0.chunk.js.LICENSE.txt": "/cii/static/js/2.760e9da0.chunk.js.LICENSE.txt",
     "static/media/C4II.png": "/cii/static/media/C4II.216ba44d.png",
     "static/media/CIIBlack.png": "/cii/static/media/CIIBlack.e24d8dc0.png",
     "static/media/styles.css": "/cii/static/media/Cross.5d8e37e2.png",
@@ -37,6 +37,10 @@
     "static/media/chahat.jpg": "/cii/static/media/chahat.72804797.jpg",
     "static/media/divya.jpg": "/cii/static/media/divya.63666c37.jpg",
     "static/media/eco1.jpeg": "/cii/static/media/eco1.a099e9b5.jpeg",
+    "static/media/ecovision-header.png": "/cii/static/media/ecovision-header.26c8540a.png",
+    "static/media/ecovision-timeline.png": "/cii/static/media/ecovision-timeline.b902d203.png",
+    "static/media/ecovision-turtle.png": "/cii/static/media/ecovision-turtle.9c2d6af5.png",
+    "static/media/ecovision-zeus.png": "/cii/static/media/ecovision-zeus.0cabb665.png",
     "static/media/events+image.png": "/cii/static/media/events+image.92dc468e.png",
     "static/media/facebook.png": "/cii/static/media/facebook.a5fe7fc5.png",
     "static/media/fateen.jpeg": "/cii/static/media/fateen.28fb5064.jpeg",
@@ -74,6 +78,7 @@
     "static/media/person.png": "/cii/static/media/person.cb4ade3f.png",
     "static/media/project+image.png": "/cii/static/media/project+image.dd2c83db.png",
     "static/media/ranjanraout.jpg": "/cii/static/media/ranjanraout.199875d5.jpg",
+    "static/media/register.png": "/cii/static/media/register.cac55987.png",
     "static/media/rithik.jpg": "/cii/static/media/rithik.dd15c884.jpg",
     "static/media/sahana.jpg": "/cii/static/media/sahana.5ee2b812.jpg",
     "static/media/santhosh.png": "/cii/static/media/santhosh.c9d78d2a.png",
@@ -95,7 +100,9 @@
     "static/media/sushyant.jpeg": "/cii/static/media/sushyant.53258e3c.jpeg",
     "static/media/tanzeela.jpeg": "/cii/static/media/tanzeela.4ba28576.jpeg",
     "static/media/texasInstruments.png": "/cii/static/media/texasInstruments.e8a8f4fb.png",
+    "static/media/text.png": "/cii/static/media/text.18ca9143.png",
     "static/media/thanish.jpg": "/cii/static/media/thanish.3c95d67e.jpg",
+    "static/media/time.png": "/cii/static/media/time.73a455c3.png",
     "static/media/vakula.jpg": "/cii/static/media/vakula.e1ccff10.jpg",
     "static/media/venkaiah.jpg": "/cii/static/media/venkaiah.a6251bcc.jpg",
     "static/media/venkatesh.png": "/cii/static/media/venkatesh.52a4f3e9.png",
@@ -103,8 +110,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a9774b1.js",
-    "static/js/2.ec2fc386.chunk.js",
-    "static/css/main.b6841f2e.chunk.css",
-    "static/js/main.906dac45.chunk.js"
+    "static/js/2.760e9da0.chunk.js",
+    "static/css/main.f56e6348.chunk.css",
+    "static/js/main.2d1fc191.chunk.js"
   ]
 }
